@@ -1,0 +1,2 @@
+# ArixOS
+ArixOS by RABBI
